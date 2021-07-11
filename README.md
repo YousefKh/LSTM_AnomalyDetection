@@ -3,4 +3,5 @@ The training methodology for our LSTM network is fairly straightforward. We firs
 
 # Reference
 https://pyflux.readthedocs.io/en/latest/arima.html
+
 https://people.duke.edu/~rnau/411home.htm
